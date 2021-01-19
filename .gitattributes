@@ -1,2 +1,1 @@
-dados/HIST_PAINEL_COVIDBR_18jan2021.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
